@@ -1,2 +1,2 @@
 # Digital-Hustlers
-Test Repository für die Einrichtung von Git
+Repository für Projekte der Digital Hustlers
